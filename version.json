@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "downloadUrl": "URL_APK_DARI_GITHUB_RELEASES",
+  "sha256": "HASH_SHA256_APK",
+  "isMandatory": false,
+  "changelog": "Bug fixes and performance improvements"
+}
