@@ -2,7 +2,7 @@
   "versionCode": 2,
   "versionName": "1.1.0",
   "downloadUrl": "https://github.com/kunanggg22/Shinigameat-Releases/releases/download/v1.1.0/Shinigameat.apk",
-  "sha256": "df891ed6cfbaca50d8a52d700adbe532dd3e945dc28f4c5a3eb5ec519c911101",
+  "sha256": "bed70cbdd5f55db4ee56327536e9561796d8d7de2ed8d7c6338a992b26fa5cb8",
   "isMandatory": false,
-  "changelog": "Test update from v1.0 to v1.1.0"
+  "changelog": "Test update v1.0 → v1.1.0"
 }
