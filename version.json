@@ -1,7 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "downloadUrl": "https://github.com/kunanggg22/Shinigameat-Releases/releases/download/v1.1.1/Shinigameat.apk",
-  "sha256": "f01a47a23c4b25904e588e417668b508f6f4344112e8b2801fcbf73d80ada8c1",
-  "isMandatory": false
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "downloadUrl": "https://github.com/kunanggg22/Shinigameat-Releases/releases/download/v1.1.3/shinigameat-v1.1.3.apk",
+  "sha256": "ISI_HASH_DARI_LANGKAH_3",
+  "isMandatory": false,
+  "changelog": "Tes OTA v4 patch"
 }
